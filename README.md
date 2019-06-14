@@ -2,4 +2,4 @@
 
 ### 卷积神经网络练手项目
 
-探索过程大多写在 [Jupyter]("https://github.com/ffujiawei/cnn-captcha/blob/master/cnn_captcha.ipynb") 文件里了，这里不再赘述
+探索过程大多写在 [Jupyter](https://github.com/ffujiawei/cnn-captcha/blob/master/cnn_captcha.ipynb) 文件里了，这里不再赘述
