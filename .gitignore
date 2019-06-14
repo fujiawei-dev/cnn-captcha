@@ -1,0 +1,11 @@
+*.pyc
+*.egg-info/
+*.ini
+
+# setuptools
+dist/
+build/
+
+# project
+.pytest_cache/
+.ipynb_checkpoints
